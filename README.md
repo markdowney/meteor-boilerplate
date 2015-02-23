@@ -3,9 +3,7 @@
 A starting point for MeteorJS applications. Includes iron-router, Bootstrap 3, Font Awesome, LESS and more.
 
 * [Included Packages](#included-packages)
-* [Installation](#installation)
 * [File Structure](#file-structure)
-* [Bootstrap and Less](#bootstrap-and-less)
 * [SEO](#seo)
 * [Favicons and Touch Icons](#favicons-and-touch-icons)
 * [Seed Data](#seed-data)
@@ -32,17 +30,6 @@ A starting point for MeteorJS applications. Includes iron-router, Bootstrap 3, F
   * [Underscore.string](http://epeli.github.io/underscore.string/)
   * [cunneen:mailgun](https://github.com/cunneen/meteor-mailgun)
 
-## <a name="installation"></a> Installation
-
-1. Clone this repo to `<yourapp>`
-
-  `git clone https://github.com/Differential/meteor-boilerplate.git <yourapp>`
-
-2. Remove `.git`
-
-  `cd <yourapp> && rm -rf .git`
-
-3. Start coding!
 
 ## <a name="file-structure"></a> File Structure
 
